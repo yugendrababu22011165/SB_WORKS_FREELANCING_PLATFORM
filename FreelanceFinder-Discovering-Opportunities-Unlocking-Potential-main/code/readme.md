@@ -1,0 +1,4 @@
+RUN THE CODE USE THIS COMMANDS IN CLIENT AND SERVER IN TERMINAL
+npm install
+#next
+npm start
